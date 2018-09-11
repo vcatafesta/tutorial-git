@@ -1,0 +1,26 @@
+site_name: Git tutorial
+
+
+
+nav:
+- Inicio: 'index.md'
+- Começando: 'initial.md'  
+- Essencial: 'essencial.md'  
+- Ramificação: 'branch.md'  
+- Servidor: 'servidor.md'  
+- Customizando: 'configure.md'  
+- Chave PGP: 'pgp.md'  
+- SSH: 'ssh.md'  
+- Dicas e Truques: 'extra.md'
+
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages: 
+        - yaml
+        - rust
+        - c
+        - c++
+        - php
+
